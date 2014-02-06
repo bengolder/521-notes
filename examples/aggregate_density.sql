@@ -5,7 +5,7 @@ select
     town_id, 
     town,   
     count(*)  AS parts, -- 'AS' sets one thing equal to another thing
-    avg(pop90) AS pop90, 
+    avg(pop90) AS pop90, -- take avg(pop90) and put it in a column named 'pop90'
     sum(area) AS area, 
     10000*(avg(pop90)/sum(area)) AS density
 from jf.matown2000
