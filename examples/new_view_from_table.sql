@@ -1,3 +1,5 @@
+/* These was intended to be run in Oracle
+*/
 
 create view v_madensity as 
     select 

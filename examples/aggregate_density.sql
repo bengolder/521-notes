@@ -1,3 +1,5 @@
+/* These was intended to be run in Oracle
+*/
 
 select 
     town_id, 
