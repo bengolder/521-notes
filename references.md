@@ -10,8 +10,10 @@
 * [SQL: Visual QuickStart Guide](http://www.amazon.com/SQL-Visual-QuickStart-Guide-3rd/dp/0321553578/ref=sr_1_46?s=books&ie=UTF8&qid=1391729284&sr=1-46&keywords=postgresql)
 * [PostgreSQL 9.0 High Performance](http://www.amazon.com/PostgreSQL-High-Performance-Gregory-Smith/dp/184951030X/ref=sr_1_1?s=books&ie=UTF8&qid=1391729664&sr=1-1&keywords=postgresql+9.0)
 * [PostgreSQL 9.0 Official Documentation - Volume I. The SQL Language](http://www.amazon.com/PostgreSQL-9-0-Official-Documentation-Language/dp/1596822465/ref=sr_1_3?s=books&ie=UTF8&qid=1391729664&sr=1-3&keywords=postgresql+9.0)
+* [PostGIS Cheat Sheet (HTML)](http://www.postgis.us/downloads/postgis20_cheatsheet.html)
+* [PostGIS Cheat Sheet (PDF)](http://www.postgis.us/downloads/postgis20_cheatsheet.pdf)
 
 ## Other Related Books
 
-[Web Mapping Illustrated: Using Open Source GIS Toolkits](http://www.amazon.com/Web-Mapping-Illustrated-Source-Toolkits/dp/0596008651/ref=sr_1_36?s=books&ie=UTF8&qid=1391729259&sr=1-36&keywords=postgresql)
+* [Web Mapping Illustrated: Using Open Source GIS Toolkits](http://www.amazon.com/Web-Mapping-Illustrated-Source-Toolkits/dp/0596008651/ref=sr_1_36?s=books&ie=UTF8&qid=1391729259&sr=1-36&keywords=postgresql)
 
